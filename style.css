@@ -1,0 +1,38 @@
+* {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+.box_shade {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#Back_and_forth_boxes {
+  display: inline-block;
+}
+#EDU {
+  color: white;
+  background-color: rgba(0, 0, 255, 0.641);
+}
+#Hobbies {
+  background-color: rgba(255, 255, 0, 0.786);
+  color: black;
+  width: 100%;
+}
+.il {
+  display: inline;
+}
+#topsite {
+  background-color: rgba(255, 0, 0, 0.743);
+  color: black;
+  text-align: center;
+  width: 100%;
+}
+#foot {
+  font-weight: 100;
+  text-align: right;
+}
+#sa {
+  margin-top: 4px;
+  margin-bottom: 4px;
+}
